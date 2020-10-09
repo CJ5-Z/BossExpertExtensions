@@ -99,7 +99,7 @@ exports.initialize = (modPath) => {
         }
     }); 
         //Lead Developer
-    ComponentNames.ExpertSupplementModule = 'expertsupplemetmodule';
+    ComponentNames.ExpertSupplementModule = 'expertsupplementmodule';
     Components.push({
         name: ComponentNames.ExpertSupplementModule,
         employeeLevel: Enums.EmployeeLevels.Expert,
