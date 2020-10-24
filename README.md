@@ -2,6 +2,7 @@ Note the LICENSE for the mod. For contact with questions, suggestions, and bug r
 
 CJ5-Z Simple LICENSE:
 
-Redistribution and modificationallowed 
-Monetization allowed 
+- Redistribution and modificationallowed 
+- Monetization allowed 
+
 Credit is appreciated but not required wherever this mod may be used.
